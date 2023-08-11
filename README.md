@@ -1,9 +1,14 @@
 # TrilhaQA - Automação de Testes em CodeceptJS + Playwright (E Webdriver)
 Repositório destinado aos códigos durante meu aprendizado na TrilhaQA do QAZANDO
 
-#Passos:
+Como utilizar
+
+#Clonar o repositorio:
 ```
 git clone https://github.com/taissasli/TrilhaQA.git
+```
+#Instalar os pacotes
+```
 npm install
 ```
 #Rodar Testes
