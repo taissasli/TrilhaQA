@@ -1,0 +1,21 @@
+{
+  "name": "projeto1",
+  "version": "1.0.0",
+  "description": "Projeto de automação utilizando CodeceptJS e Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@codeceptjs/allure-legacy": "^1.0.2",
+    "@codeceptjs/ui": "^0.6.1",
+    "@faker-js/faker": "^8.0.2",
+    "codeceptjs": "^3.5.3",
+    "playwright": "^1.36.1"
+  },
+  "dependencies": {
+    "codeceptjs-testrail": "^1.4.2"
+  }
+}
